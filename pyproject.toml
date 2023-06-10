@@ -1,9 +1,9 @@
 [tool.poetry]
-name = "tradingpattern"
-version = "0.0.5"
-repository = "https://github.com/white07S/TradingPatternScanner"
-description = "Trading Pattern Scanner Identifies complex patterns like head and shoulder, wedge and many more."
-authors = ["Preetam Sharma"]
+name = "patternpy"
+version = "1.0"
+repository = "https://github.com/keithorange/patternpy"
+description = "Trading analysis with high-speed pattern recognition, leveraging Pandas & Numpy. Effortlessly spot Head & Shoulders, Tops & Bottoms, Supports & Resistances. For experts & beginners. #TradingMadeEasy 🔥"
+authors = ["Keith Orange"]
 license = "CC BY-NC-SA 4.0"
 readme = "README.md"
 packages = [
