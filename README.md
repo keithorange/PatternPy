@@ -16,9 +16,9 @@ Our package stands out for several reasons:
 - **Flexible and Customizable**: You can easily adjust the window size to suit your preferences, offering a balance between sensitivity and false-positive control.
 - **Potential for Wealth Creation:** PatternPy is designed to help you recognize lucrative trading opportunities with greater efficiency and accuracy, potentially leading to increased wealth.
 
-![PatternPy in action](docs/images/patterns.png)
 
 
+## Installation
 
 You can install PatternPy by cloning this repo and placing it in your working directory, then importing it like usual:
 ```
@@ -62,7 +62,9 @@ See our usage guide for more detailed instructions and examples.
 
 - **Higher-High & Lower-Low**- The Chart Adventurer's Quest: Grab your explorer hat because this pattern is an expedition to uncharted territories. New highs or new lows - they’re the breadcrumbs that lead to the heart of market trends. 🗺️
 
-## Installation
+  ![PatternPy in action](docs/images/patterns.png)
+
+
 
 ## Future Plans
 We're always looking to improve PatternPy. Some areas we're exploring include:
