@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "tradingpattern"
+version = "0.0.5"
+repository = "https://github.com/white07S/TradingPatternScanner"
+description = "Trading Pattern Scanner Identifies complex patterns like head and shoulder, wedge and many more."
+authors = ["Preetam Sharma"]
+license = "CC BY-NC-SA 4.0"
+readme = "README.md"
+packages = [
+    { include = "tradingpatterns" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.24.2"
+pandas = "^2.0.0"
+
+[tool.poetry.group.dev.dependencies]
+coverage = "^7.2.2"
+nose = "^1.3.7"
+Sphinx = "^6.1.3"
+sphinx-rtd-theme-citus = "^0.5.25"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
