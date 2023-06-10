@@ -22,12 +22,12 @@ Our package stands out for several reasons:
 
 You can install PatternPy by cloning this repo and placing it in your working directory, then importing it like usual:
 ```
-$ pip install patternpy
+git clone https://github.com/keithorange/PatternPy
 ``` 
 ## Usage
 Once installed and imported, you use PatternPy as follows:
 ```
-from patternpy import head_and_shoulders
+from patternpy.tradingpatterns import head_and_shoulders
 
 # Have price data (OCHLV dataframe)
 df = pd.Dataframe(stock_data)
